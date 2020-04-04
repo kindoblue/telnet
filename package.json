@@ -1,7 +1,5 @@
 {
   "name": "telnet",
   "version": "1.0.0",
-  "dependencies": {
-    "telnet": "kindoblue/telnet"
-  }
+  "license": "MIT"
 }
